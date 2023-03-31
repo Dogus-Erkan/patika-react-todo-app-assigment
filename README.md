@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# patika-react-todo-app-assigment
+<h1>www.patika.dev</h1>
+<p>Bu ödev basit bir ToDo uygulamasıdır. Kullanıcı, uygulama üzerinden yapılacak işler ekleyebilir, işleri tamamladıkça işaretleyebilir ve tamamlananları silebilir.</p>
+
+<h2>Kullanılan Teknolojiler</h2>
+<p>Bu uygulama React ve CSS kullanılarak geliştirilmiştir.</p>
+
+
+<img src='./index.png'>
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
